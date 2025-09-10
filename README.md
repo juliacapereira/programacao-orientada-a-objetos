@@ -1,2 +1,2 @@
-# programação-o-orientada-a-objetos
+# programação-orientada-a-objetos
 atividades desenvolvidas na aula de PI-programação orientada a objetos
